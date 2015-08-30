@@ -1,0 +1,6 @@
+[submodule "taskjournal.wiki"]
+	path = taskjournal.wiki
+	url = https://github.com/OpenBirukus/taskjournal.wiki.git
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/OpenBirukus/taskjournal.wiki.git
